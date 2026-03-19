@@ -1,0 +1,12 @@
+untuk bikin project baru react ketik:
+	npm create vite@latest -> give name -> javaScript + React Compiler
+
+control node pake nvm:
+	untuk update:
+		nvm install 22.12.0
+
+di react pelajari:
+	1. Component
+	2. JSX
+	3. useState
+duluukk
